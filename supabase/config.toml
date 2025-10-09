@@ -1,0 +1,4 @@
+project_id = "ztmjvnyjxuthccofqeng"
+
+[functions.calculate-roi]
+verify_jwt = false
